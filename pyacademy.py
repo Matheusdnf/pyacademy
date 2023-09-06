@@ -1,6 +1,7 @@
 #código de matheus diniz fernandes
 import pickle # salvando arquivos
 import os
+#comentário
 usi={}
 maquinas={}
 series={}
